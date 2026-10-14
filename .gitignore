@@ -1,0 +1,10 @@
+﻿.idea/
+**/build/
+**/out/
+**/target/
+.gradle/
+**/.gradle/
+*.class
+.env
+.env.*
+!.env.example
